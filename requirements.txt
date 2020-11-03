@@ -1,0 +1,17 @@
+beautifulsoup4
+#alembic
+flask
+pandas
+gunicorn
+requests
+# SQLAlchemy
+#psycopg2
+flask-login
+flask-restful
+flask-wtf
+flask-migrate
+sqlalchemy-serializer
+scikit-learn
+#python-telegram-bot
+#opencv-python
+numpy
